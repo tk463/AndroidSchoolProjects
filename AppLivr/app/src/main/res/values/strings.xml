@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Application Livraison</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_close">Close</string>
+    <string name="action_consult">Consulter</string>
+    <string name="action_choose">Choisir</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="criteria_hint">Criteria</string>
+    <string name="get_deliveries">Get deliveries</string>
+    <string name="car_number">Car number</string>
+    <string name="title_activity_consult">ConsultActivity</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

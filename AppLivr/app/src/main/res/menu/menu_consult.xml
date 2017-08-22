@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="a3.debianpulse.injen.applivr.ConsultActivity">
+    <item android:id="@+id/action_choose" android:title="@string/action_choose"
+        android:orderInCategory="100" android:showAsAction="never" />
+</menu>

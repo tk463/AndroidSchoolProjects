@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="a3.debianpulse.injen.applivr.MainActivity">
+    <item android:id="@+id/action_close" android:title="@string/action_close"
+        android:orderInCategory="100" android:showAsAction="never" />
+    <item android:id="@+id/action_consult" android:title="@string/action_consult"
+        android:orderInCategory="100" android:showAsAction="never" />
+</menu>
